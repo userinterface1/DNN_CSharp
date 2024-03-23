@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\bin\Debug\net8.0\Deep Learning DNN.exe
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\bin\Debug\net8.0\Deep Learning DNN.deps.json
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\bin\Debug\net8.0\Deep Learning DNN.runtimeconfig.json
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\bin\Debug\net8.0\Deep Learning DNN.dll
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\bin\Debug\net8.0\Deep Learning DNN.pdb
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.AssemblyInfo.cs
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.dll
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\refint\Deep Learning DNN.dll
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.pdb
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\Deep Learning DNN.genruntimeconfig.cache
+C:\Users\USER\source\repos\Deep Learning DNN\Deep Learning DNN\obj\Debug\net8.0\ref\Deep Learning DNN.dll
